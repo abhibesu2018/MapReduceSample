@@ -1,5 +1,7 @@
 # MapReduceSample
-
+#1
+#2
+#3
 1. sbt package
 2. hadoop fs -mkdir /user/abhi/wordcount/
 3. hadoop fs -put mapreducesample_2.11-1.0.jar /user/abhi/wordcount/
